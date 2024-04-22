@@ -22,5 +22,8 @@ Table name: cars
 - image | VARCHAR(255) | NULL |  DEFAULT('defaultpic)
 - condition | VARCHAR(50) | NOTNULL |
 - description | TEXT | NULL
-- position | VARCHAR(60) | NOTNULL |  DEFAULT('Wrok in Progress')
+- position | VARCHAR(60) | NOTNULL |  DEFAULT('Updated soon')
 - note | TEXT | NULL
+
+
+| Nome colonna   | id             | vin            | type           | brand          | model          | fuel           | body_category  | transmission   | year    | kilometres | color         | is_available   | price  | discount | image               | condition       | description    | position                      | note   |
