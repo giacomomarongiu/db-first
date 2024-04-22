@@ -1,2 +1,5 @@
-| id | vin | type | brand | model | fuel | body_category | transmission | year | kilometres | color | is_available | price | discount | image | condition | description | position | note |
-|----|-----|------|-------|-------|------|---------------|--------------|------|------------|-------|--------------|-------|----------|-------|-----------|-------------|----------|------|
+| id | vin | type  | brand  | model   | fuel     | body_category | transmission | year | kilometres | color | is_available | price | discount | image      | condition | description       | position | note                    |
+|----|-----|-------|--------|---------|----------|---------------|--------------|------|------------|-------|--------------|-------|----------|------------|-----------|-------------------|----------|-------------------------|
+| 1  | ABC123 | car | Toyota | Corolla | Gasoline | Sedan         | Automatic    | 2019 | 50000      | Red   | true         | 15000 | 500      | corolla.jpg | Used      | A reliable sedan | Front    | Some notes about this car |
+| 2  | XYZ456 | car | Honda  | CR-V    | Diesel   | SUV           | Manual       | 2018 | 70000      | Blue  | true         | 20000 | 1000     | crv.jpg     | Used      | A spacious SUV   | Rear     | Additional notes here     |
+| 3  | QWE789 | scooter | Yamaha | XJ6     | Gasoline | Scooter       | Automatic    | 2020 | 1000       | Black | true         | 5000  | 0        | xj6.jpg     | New       | A stylish scooter | -        | -                        |
